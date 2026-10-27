@@ -1,0 +1,38 @@
+﻿Zðù Social | Zðù
+LINKS ['https://ivanalbrieu.wixsite.com/zze3', 'https://ivanalbrieu.wixsite.com/zze3/account/my-account', 'https://ivanalbrieu.wixsite.com/zze3/account/notifications', 'https://ivanalbrieu.wixsite.com/zze3/account/settings', 'https://ivanalbrieu.wixsite.com/zze3/groups', 'https://ivanalbrieu.wixsite.com/zze3/profile/{userName}/profile']
+IMGS 5
+  https://static.wixstatic.com/media/6aa0c3_881da9b1717e4451a91e98e2933f7a41~mv2.png/v1/fill/w_135,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-dark.png
+  https://static.wixstatic.com/media/6aa0c3_881da9b1717e4451a91e98e2933f7a41~mv2.png/v1/fill/w_67,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-dark.png
+  https://static.wixstatic.com/media/6aa0c3_e21a744f273843b197252ffbd5595f8e~mv2.jpg/v1/crop/x_0,y_563,w_961,h_717/fill/w_481,h_359,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ookie.jpg
+  https://static.wixstatic.com/media/6aa0c3_e21a744f273843b197252ffbd5595f8e~mv2.jpg/v1/crop/x_0,y_563,w_961,h_717/fill/w_961,h_717,al_c,q_85,enc_avif,quality_auto/ookie.jpg
+  https://static.wixstatic.com/media/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b%7Emv2.jpg
+VIDS []
+FONTS [" 'avenir-lt-w01_35-light1475496'", " 'futura-lt-w01-book'", " 'poppins'", " 'poppins-semibold'", " 'proxima-n-w01-reg'", " 'raleway'", " 'raleway-semibold'", ' avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif', 'Arial,Helvetica,sans-serif', 'Helvetica,Arial,sans-serif}ol,ul{list-style:none}blockquote,q{quotes:none}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse', 'Helvetica,Arial,ÒâíÒéñÒâ¬Òé¬,meiryo,ÒâÆÒâ®Òé«ÒâÄÞºÆÒé┤ pro w3,hiragino kaku gothic pro,sans-serif', 'Madefor,Helvetica Neue,Helvetica,Arial,ÒâíÒéñÒâ¬Òé¬,meiryo,ÒâÆÒâ®Òé«ÒâÄÞºÆÒé┤ pro w3,hiragino kaku gothic pro,sans-serif', 'Madefor-Text', 'Madefor-Text,Helvetica Neue,Helvetica,Arial,ÒâíÒéñÒâ¬Òé¬,meiryo,ÒâÆÒâ®Òé«ÒâÄÞºÆÒé┤ pro w3,hiragino kaku gothic pro,sans-serif', 'wixFreemiumFontW01-35Thin', 'wixFreemiumFontW01-45Ligh', 'wixFreemiumFontW01-55Roma', 'wixFreemiumFontW01-65Medi', 'wixFreemiumFontW02-35Thin', 'wixFreemiumFontW02-45Ligh', 'wixFreemiumFontW02-55Roma', 'wixFreemiumFontW02-65Medi', 'wixFreemiumFontW10-35Thin', 'wixFreemiumFontW10-45Ligh', 'wixFreemiumFontW10-55Roma', 'wixFreemiumFontW10-65Medi']
+Zðù Social | Zðù
+top of page
+[A https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=074e3fe5-7076-49ad-9f1e-ef80457c4eeb&adsVersion=banner_2024]
+This website was built on Wix. Create yours today.
+Get Started
+[A https://ivanalbrieu.wixsite.com/zze3/groups]
+[IMG logo-dark.png https://static.wixstatic.com/media/6aa0c3_881da9b1717e4451a91e98e2933f7a41~mv2.png/v1/fill/w_67,h_46,al_c,q_85,usm_0.66_]
+[A https://ivanalbrieu.wixsite.com/zze3/profile/{userName}/profile]
+Profile
+[A https://ivanalbrieu.wixsite.com/zze3/account/my-account]
+My Account
+[A https://ivanalbrieu.wixsite.com/zze3/account/notifications]
+Notifications
+[A https://ivanalbrieu.wixsite.com/zze3/account/settings]
+Settings
+More
+Use tab to navigate through the menu items.
+[BUTTON {"class": "O4eQsz", "data-testid": "handle-button"}]
+Log In
+Welcome to Zðù Social!
+Z3 Social. A new way to form communities online with simplicity and freedom. Without anyone to stop all of you. No need of Discord or FANDOM or X or anything like that. Z3 is the best website to form communities online!
+[A https://ivanalbrieu.wixsite.com/zze3/groups]
+Get Started
+[IMG ookie.jpg https://static.wixstatic.com/media/6aa0c3_e21a744f273843b197252ffbd5595f8e~mv2.jpg/v1/crop/x_0,y_563,w_961,h_717/fill/w_]
+Every online community has a story, and you all want to hear yours. This social space is a great opportunity to give a full background on who you all are, what your community does and what you all have to show and tell. No corporation affairs and freedom forever. You don't have to pay anything to form communities and friendships online with Z3 Social. It works similar to X and the FANDOM wiki forums, but without ads and money going on here. Add a photo, gallery or video in any community group to get started. Or better, create your own community group here today!
+[IFRAME {"class": "UkML6", "title": "Wix Chat", "aria-label": "Wix Chat", "scrolling": "no", "allowfullscreen": "", "allowtransparency": "true", "allowvr": "true", "frameborder": "0", "allow": "clipboard-writ]
+┬®2026 by Z3 Social. Proudly created with Wix.com
+bottom of page

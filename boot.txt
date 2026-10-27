@@ -1,0 +1,22 @@
+==============================================
+  Z3 Social Website - Boot Instructions
+==============================================
+
+To launch and run the website locally:
+
+Option 1 (Recommended):
+Double-click "boot.bat".
+This will start the Node.js backend server and automatically open:
+http://localhost:3000 in your default web browser.
+
+Option 2 (Manual Command Line):
+1. Open PowerShell or Command Prompt in this folder.
+2. Run: node server/server.js
+3. Open your browser and navigate to: http://localhost:3000
+
+Features included:
+- Wix Groups full clone (posts, comments, emoji reactions, polls, YouTube embeds, KLIPY animated GIFs)
+- Wix Members Area (auth, profile pages, account settings, notifications)
+- Wix Chat (floating drawer and direct messaging)
+- Group Categories & Privacy levels (Public, Private, Hidden)
+- KLIPY GIF integration: Search, insert, or paste any https://klipy.com/gifs/<slug> link!

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Z3 Social | Z3</title>
+  <meta name="description" content="Z3 Social. A new way to form communities online with simplicity and freedom." />
+  <meta property="og:title" content="Z3 Social" />
+  <meta property="og:image" content="/media/logo.png" />
+  <link rel="icon" href="/media/z3-square.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Jost:wght@300;400;500&family=Poppins:wght@400;600&family=Raleway:wght@400;600&display=swap"
+    rel="stylesheet"
+  />
+  <script>
+    window.tailwind = {
+      config: {
+        corePlugins: {
+          preflight: false,
+          outline: false,
+          outlineStyle: false,
+          outlineOffset: false,
+          outlineColor: false,
+          outlineWidth: false,
+          container: false,
+        },
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              black: '#000000',
+              navy: '#1e293b',
+              slate: '#4b5761',
+              panel: '#1e293b',
+              line: 'rgba(195, 204, 215, 0.35)',
+              'line-strong': 'rgba(195, 204, 215, 0.6)',
+              text: '#f1f4f6',
+              muted: '#c3ccd7',
+              dim: '#8a96a6',
+              blue: {
+                DEFAULT: '#0475c2',
+                hover: '#0a8ae0',
+              },
+              accent: '#0475c2',
+              danger: '#eb484d',
+            },
+            fontFamily: {
+              ui: ['Figtree', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+              head: ['Jost', 'Futura', 'Century Gothic', 'sans-serif'],
+              pop: ['Poppins', 'sans-serif'],
+              raleway: ['Raleway', 'Figtree', 'sans-serif'],
+            },
+            maxWidth: {
+              layout: '980px',
+              site: '1366px',
+              feed: '700px',
+            },
+          },
+        },
+      },
+    };
+  </script>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/groups" data-link class="logo" aria-label="Z3 Social groups"><img src="/media/logo.png" alt="Z3" /></a>
+      <nav class="main-nav" aria-label="Site">
+        <a href="#" id="nav-profile">Profile</a>
+        <div class="nav-more">
+          <button type="button" id="nav-more-btn" aria-haspopup="true" aria-expanded="false">More</button>
+          <div class="dropdown" id="nav-more-menu" hidden>
+            <a href="/" data-link>Home</a>
+            <a href="/groups" data-link>Groups</a>
+            <a href="/members" data-link>Members</a>
+            <a href="/account/my-account" data-link data-auth>My Account</a>
+            <a href="/account/notifications" data-link data-auth>Notifications</a>
+            <a href="/account/settings" data-link data-auth>Settings</a>
+          </div>
+        </div>
+      </nav>
+      <div class="header-user" id="header-user"></div>
+    </div>
+  </header>
+
+  <main id="app" class="page" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <p>©2026 by Z3 Social.</p>
+  </footer>
+
+  <div id="chat-root"></div>
+  <div id="modal-root"></div>
+  <div id="toast-root" aria-live="polite"></div>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>

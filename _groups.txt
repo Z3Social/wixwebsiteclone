@@ -1,0 +1,128 @@
+﻿Groups | Zðù
+LINKS ['https://ivanalbrieu.wixsite.com/zze3/account/my-account', 'https://ivanalbrieu.wixsite.com/zze3/account/notifications', 'https://ivanalbrieu.wixsite.com/zze3/account/settings', 'https://ivanalbrieu.wixsite.com/zze3/group/ivan-music', 'https://ivanalbrieu.wixsite.com/zze3/group/ivan-music/discussion/b4051201-5937-441e-a7f2-e6fb47525075', 'https://ivanalbrieu.wixsite.com/zze3/group/z3-central', 'https://ivanalbrieu.wixsite.com/zze3/group/z3-central/discussion/3681593f-65ea-41f9-b16e-7029313a1937', 'https://ivanalbrieu.wixsite.com/zze3/group/z3-central/discussion/d2cf8702-01d1-4f3c-aed1-89bcee48c774', 'https://ivanalbrieu.wixsite.com/zze3/groups', 'https://ivanalbrieu.wixsite.com/zze3/profile/{userName}/profile']
+IMGS 8
+  https://static.wixstatic.com/media/6aa0c3_881da9b1717e4451a91e98e2933f7a41~mv2.png/v1/fill/w_135,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-dark.png
+  https://static.wixstatic.com/media/6aa0c3_881da9b1717e4451a91e98e2933f7a41~mv2.png/v1/fill/w_67,h_46,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-dark.png
+  https://static.wixstatic.com/media/6aa0c3_bad1a44857f44a78ae517e76ac2efde7~mv2.png/v1/fill/w_105,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6aa0c3_bad1a44857f44a78ae517e76ac2efde7~mv2.png
+  https://static.wixstatic.com/media/6aa0c3_bad1a44857f44a78ae517e76ac2efde7~mv2.png/v1/fill/w_210,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6aa0c3_bad1a44857f44a78ae517e76ac2efde7~mv2.png
+  https://static.wixstatic.com/media/e16aa5_893d10688d454bf0a42ae872faa248f6~mv2.jpg/v1/fill/w_105,h_59,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e16aa5_893d10688d454bf0a42ae872faa248f6~mv2.jpg
+  https://static.wixstatic.com/media/e16aa5_893d10688d454bf0a42ae872faa248f6~mv2.jpg/v1/fill/w_210,h_118,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e16aa5_893d10688d454bf0a42ae872faa248f6~mv2.jpg
+  https://static.wixstatic.com/media/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b%7Emv2.jpg
+  https://static.wixstatic.com/media/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b~mv2.jpg
+VIDS []
+FONTS [" 'futura-lt-w01-book'", " 'poppins'", " 'poppins-semibold'", " 'proxima-n-w01-reg'", " 'raleway'", " 'raleway-semibold'", 'Arial,Helvetica,sans-serif', 'Helvetica,Arial,sans-serif}ol,ul{list-style:none}blockquote,q{quotes:none}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse', 'Helvetica,Arial,ÒâíÒéñÒâ¬Òé¬,meiryo,ÒâÆÒâ®Òé«ÒâÄÞºÆÒé┤ pro w3,hiragino kaku gothic pro,sans-serif', 'Inconsolata,Menlo,Consolas,monospace', 'Madefor,Helvetica Neue,Helvetica,Arial,ÒâíÒéñÒâ¬Òé¬,meiryo,ÒâÆÒâ®Òé«ÒâÄÞºÆÒé┤ pro w3,hiragino kaku gothic pro,sans-serif', 'Madefor-Text', 'Madefor-Text,Helvetica Neue,Helvetica,Arial,ÒâíÒéñÒâ¬Òé¬,meiryo,ÒâÆÒâ®Òé«ÒâÄÞºÆÒé┤ pro w3,hiragino kaku gothic pro,sans-serif', 'Segoe UI Emoji,Segoe UI Symbol,Segoe UI,Apple Color Emoji,Twemoji Mozilla,Noto Color Emoji,Android Emoji,emoji', 'sans-serif', 'var(--cardBodyTextFont-family)', 'var(--cardSubtitleFont-family)', 'var(--cardTitleFont-family)', 'var(--commentsReactionsCounterFont-family)', 'var(--feedSubtitleFont-family)', 'var(--feedTitleFont-family)', 'var(--groupInfoFont-family)', 'var(--groupNameFont-family)', 'var(--memberNameFont-family)', 'var(--postingDateFont-family)', 'var(--postsTextFont-family)', 'var(--postsTitleFont-family)', 'var(--ricos-custom-h1-font-family,unset)', 'var(--ricos-custom-h2-font-family,unset)', 'var(--ricos-custom-h3-font-family,unset)', 'var(--ricos-custom-h4-font-family,unset)', 'var(--ricos-custom-h5-font-family,unset)', 'var(--ricos-custom-h6-font-family,unset)', 'var(--ricos-custom-p-font-family,unset)', 'var(--ricos-custom-p-font-family,unset)}.BjTRG{border-inline-start-style:solid', 'var(--ricos-custom-quote-font-family,unset)', 'var(--ricos-font-family,unset)}.EHRUA,.RAFE6{color:var(--ricos-custom-p-color,unset)', 'var(--ricos-font-family,unset)}.Hm4cG{filter:blur(.25em)}.ML9VL{cursor:pointer', 'var(--ricos-font-family,unset)}.Ld0xm{display:block', 'var(--ricos-font-family,unset)}.MJ7Ib{margin:0}@supports not (contain:inline-size){@media only screen and (max-width:480px){.MJ7Ib{clear:both']
+Groups | Zðù
+top of page
+[A https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=074e3fe5-7076-49ad-9f1e-ef80457c4eeb&adsVersion=banner_2024]
+This website was built on Wix. Create yours today.
+Get Started
+[A https://ivanalbrieu.wixsite.com/zze3/groups]
+[IMG logo-dark.png https://static.wixstatic.com/media/6aa0c3_881da9b1717e4451a91e98e2933f7a41~mv2.png/v1/fill/w_67,h_46,al_c,q_85,usm_0.66_]
+[A https://ivanalbrieu.wixsite.com/zze3/profile/{userName}/profile]
+Profile
+[A https://ivanalbrieu.wixsite.com/zze3/account/my-account]
+My Account
+[A https://ivanalbrieu.wixsite.com/zze3/account/notifications]
+Notifications
+[A https://ivanalbrieu.wixsite.com/zze3/account/settings]
+Settings
+More
+Use tab to navigate through the menu items.
+[BUTTON {"class": "O4eQsz", "data-testid": "handle-button"}]
+Log In
+View groups and posts below.
+[BUTTON {"aria-haspopup": "true", "aria-expanded": "false", "data-hook": "floating-dropdown-button", "aria-controls": "floating-dropdown-options-container_-1", "data-mobile": "false", "data-priority": "second]
+Sort by:
+Recent Activity
+[BUTTON {"aria-label": "Search", "data-hook": "header-search-button", "type": "button", "class": "shEs7IK s_bATHy sKbp7HH oXxzUxt---skin-4-line oXxzUxt---theme-4-none sOLQOsE", "data-focusable-focus": "false"]
+All (2)
+My Groups
+Suggested Groups
+[A https://ivanalbrieu.wixsite.com/zze3/group/ivan-music]
+[IMG  https://static.wixstatic.com/media/6aa0c3_bad1a44857f44a78ae517e76ac2efde7~mv2.png/v1/fill/w_105,h_59,al_c,q_85,usm_0.66]
+[A https://ivanalbrieu.wixsite.com/zze3/group/ivan-music]
+Ivan Music
+Public
+┬À
+1 member
+[BUTTON {"data-fullwidth": "false", "data-mobile": "false", "style": "--wix-ui-tpa-button-font-size-default:16px;--wix-ui-tpa-button-line-height-default:1", "data-is-pending": "false", "bi": "[object Object]"]
+Join
+[A https://ivanalbrieu.wixsite.com/zze3/group/z3-central]
+[IMG  https://static.wixstatic.com/media/e16aa5_893d10688d454bf0a42ae872faa248f6~mv2.jpg/v1/fill/w_105,h_59,al_c,q_80,usm_0.66]
+[A https://ivanalbrieu.wixsite.com/zze3/group/z3-central]
+Z3 Central
+Public
+┬À
+1 member
+[BUTTON {"data-fullwidth": "false", "data-mobile": "false", "style": "--wix-ui-tpa-button-font-size-default:16px;--wix-ui-tpa-button-line-height-default:1", "data-is-pending": "false", "bi": "[object Object]"]
+Join
+This post is from a suggested group
+[BUTTON {"data-fullwidth": "true", "data-mobile": "false", "style": "--wix-ui-tpa-button-font-size-default:14px;--wix-ui-tpa-button-line-height-default:1", "data-is-pending": "false", "bi": "[object Object]",]
+Join
+[IMG Ivan ]
+Ivan
+[A https://ivanalbrieu.wixsite.com/zze3/group/ivan-music/discussion/b4051201-5937-441e-a7f2-e6fb47525075]
+December 21, 2023
+┬À
+posted in
+[A https://ivanalbrieu.wixsite.com/zze3/group/ivan-music]
+Ivan Music
+[BUTTON {"data-hook": "feed-item-share-button", "aria-label": "Share", "type": "button", "class": "shEs7IK s_bATHy sKbp7HH oXxzUxt---skin-4-line oXxzUxt---theme-4-none sOLQOsE Ll6nPC _0PiM84", "data-focusable]
+Welcome to our group
+Ivan Music
+! A space for us to connect and share with each other. Start by posting your thoughts, sharing media, or creating a poll.
+[BUTTON {"aria-pressed": "false", "class": "HqioZq _Csoxo", "aria-label": "\ud83d\udc4d 0", "data-hook": "reaction-toggle-button"}]
+0
+[BUTTON {"aria-pressed": "false", "class": "HqioZq keAWHk", "data-hook": "reactions-picker-button", "aria-label": "More reactions", "aria-haspopup": "true", "aria-expanded": "false", "aria-describedby": "popo]
+[BUTTON {"aria-label": "0 Comments", "data-mobile": "false", "data-priority": "primary", "type": "button", "class": "shEs7IK s_bATHy sjFqFmT ocC_zC5---priority-7-primary ocC_zC5---hoverStyle-9-underline G_VuC]
+0 Comments
+[BUTTON {"data-hook": "comment-box-placeholder", "class": "P98Kcl"}]
+Write a comment...
+Write a comment...
+This post is from a suggested group
+[BUTTON {"data-fullwidth": "true", "data-mobile": "false", "style": "--wix-ui-tpa-button-font-size-default:14px;--wix-ui-tpa-button-line-height-default:1", "data-is-pending": "false", "bi": "[object Object]",]
+Join
+[IMG Ivan ]
+Ivan
+[A https://ivanalbrieu.wixsite.com/zze3/group/z3-central/discussion/d2cf8702-01d1-4f3c-aed1-89bcee48c774]
+October 24, 2023
+┬À
+posted in
+[A https://ivanalbrieu.wixsite.com/zze3/group/z3-central]
+Z3 Central
+[BUTTON {"data-hook": "feed-item-share-button", "aria-label": "Share", "type": "button", "class": "shEs7IK s_bATHy sKbp7HH oXxzUxt---skin-4-line oXxzUxt---theme-4-none sOLQOsE Ll6nPC _0PiM84", "data-focusable]
+PanQueQues, due to the meaning of panqueque or pancake as someone that constantly changes political position and ideology, it got officially renamed to Z3 Social, to reflect the new goals to surpass X's required paid account feature and the view to the left wing, specially for Russians.
+[IMG  https://static.wixstatic.com/media/e16aa5_ecc59a0055fe4b19b5996afb9bf4649b~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.6]
+[BUTTON {"class": "_5W4fs", "type": "button", "data-hook": "image-expand-button", "aria-label": "Expand image"}]
+[BUTTON {"aria-pressed": "false", "class": "HqioZq _Csoxo", "aria-label": "\ud83d\udc4d 0", "data-hook": "reaction-toggle-button"}]
+0
+[BUTTON {"aria-pressed": "false", "class": "HqioZq keAWHk", "data-hook": "reactions-picker-button", "aria-label": "More reactions", "aria-haspopup": "true", "aria-expanded": "false", "aria-describedby": "popo]
+[BUTTON {"aria-label": "0 Comments", "data-mobile": "false", "data-priority": "primary", "type": "button", "class": "shEs7IK s_bATHy sjFqFmT ocC_zC5---priority-7-primary ocC_zC5---hoverStyle-9-underline G_VuC]
+0 Comments
+[BUTTON {"data-hook": "comment-box-placeholder", "class": "P98Kcl"}]
+Write a comment...
+Write a comment...
+This post is from a suggested group
+[BUTTON {"data-fullwidth": "true", "data-mobile": "false", "style": "--wix-ui-tpa-button-font-size-default:14px;--wix-ui-tpa-button-line-height-default:1", "data-is-pending": "false", "bi": "[object Object]",]
+Join
+[IMG Ivan ]
+Ivan
+[A https://ivanalbrieu.wixsite.com/zze3/group/z3-central/discussion/3681593f-65ea-41f9-b16e-7029313a1937]
+December 23, 2022
+┬À
+posted in
+[A https://ivanalbrieu.wixsite.com/zze3/group/z3-central]
+Z3 Central
+[BUTTON {"data-hook": "feed-item-share-button", "aria-label": "Share", "type": "button", "class": "shEs7IK s_bATHy sKbp7HH oXxzUxt---skin-4-line oXxzUxt---theme-4-none sOLQOsE Ll6nPC _0PiM84", "data-focusable]
+QueQue Groups and The Pancakes got merged into PanQueQues Groups.
+[BUTTON {"aria-pressed": "false", "class": "HqioZq _Csoxo", "aria-label": "\ud83d\udc4d 0", "data-hook": "reaction-toggle-button"}]
+0
+[BUTTON {"aria-pressed": "false", "class": "HqioZq keAWHk", "data-hook": "reactions-picker-button", "aria-label": "More reactions", "aria-haspopup": "true", "aria-expanded": "false", "aria-describedby": "popo]
+[BUTTON {"aria-label": "0 Comments", "data-mobile": "false", "data-priority": "primary", "type": "button", "class": "shEs7IK s_bATHy sjFqFmT ocC_zC5---priority-7-primary ocC_zC5---hoverStyle-9-underline G_VuC]
+0 Comments
+[BUTTON {"data-hook": "comment-box-placeholder", "class": "P98Kcl"}]
+Write a comment...
+Write a comment...
+[IFRAME {"class": "UkML6", "title": "Wix Chat", "aria-label": "Wix Chat", "scrolling": "no", "allowfullscreen": "", "allowtransparency": "true", "allowvr": "true", "frameborder": "0", "allow": "clipboard-writ]
+┬®2026 by Z3 Social. Proudly created with Wix.com
+bottom of page
